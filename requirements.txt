@@ -1,4 +1,4 @@
-streamlit
+streamlitgit push -u origin main
 pandas
 numpy
 scikit-learn
